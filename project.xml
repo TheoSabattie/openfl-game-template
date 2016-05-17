@@ -10,10 +10,7 @@
 	
 	 <!-- Window configuration -->
 	<window fps="60" />
-	<window background="#000000" fps="60" />
-	<!-- <window width="800" height="450" fps="60" /> -->
 	<window orientation="landscape" vsync="false" antialiasing="0" if="cpp" />
-
 
 	<!-- sources path -->
 	<source path="src" />
